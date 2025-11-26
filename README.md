@@ -1,17 +1,18 @@
-# 🧮 Smart Unit Converter
+# 🧮 Smart Unit Converter Pro
 
-A beautiful and responsive unit converter web application built with Streamlit. Convert between various units of Length, Weight, and Temperature effortlessly.
+A comprehensive and beautiful unit converter web application built with Streamlit. Convert between 40+ units across 7 different categories effortlessly.
 
-## 🌟 Features
+## 🌟 Enhanced Features
 
-- **Multiple Categories**: Length, Weight, and Temperature conversions
-- **User-Friendly Interface**: Clean and modern design
-- **Real-time Conversion**: Instant results
-- **Responsive Design**: Works on all devices
+- **7 Categories**: Length, Weight, Temperature, Volume, Area, Time, and Digital Storage
+- **40+ Units**: Comprehensive coverage of common conversion needs
+- **User-Friendly Interface**: Clean, modern, and responsive design
+- **Real-time Conversion**: Instant accurate results
+- **Beautiful Styling**: Gradient backgrounds and smooth animations
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-unit-converter-app.streamlit.app/)
 
 ## 📦 Installation
 
